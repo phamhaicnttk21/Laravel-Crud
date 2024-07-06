@@ -68,3 +68,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Clone the repo
 - set up the database 
 - Run php artisan serve
+https://phamhaicnttk21.github.io/Laravel-Crud/
